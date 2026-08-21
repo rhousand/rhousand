@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on NixOS-based infrastructure and Tailscale networking. By day: DevOps and security engineering in the medical space.
+- ⚡ Fun fact: Plotting a course toward life aboard a sailboat, island hopping the Caribbean.
+
 <!--
 **rhousand/rhousand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Metrics](https://raw.githubusercontent.com/rhousand/rhousand/main/github-metrics.svg)
